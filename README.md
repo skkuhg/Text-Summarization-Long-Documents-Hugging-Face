@@ -19,7 +19,7 @@ Traditional summarization models like BART or T5 have token limitations that pre
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/text-summarization-long-documents.git
+git clone https://github.com/skkuhg/Text-Summarization-Long-Documents-Hugging-Face.git
 cd text-summarization-long-documents
 ```
 
